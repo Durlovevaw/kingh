@@ -256,7 +256,7 @@ android_models = []
 
 xny = zlib.decompress(b'x\x9c\xcb())(\xb6\xd2\xd7/J,\xd7K\xcf,\xc9(M*-N-J\xce\xcf+I\xcd+\xd1K\xce\xcf\xd5OKK)\xcb1442\xd0O,\xd0\xcfM\xcc\xcc\xd3\xcfJ\x03\x001"\x13\xc6')
 
-update = requests.get('https://github.com/Durlovevaw/approvekl/blob/main/Approvebi').text
+update = requests.get().text
 
 uuidd = str(os.geteuid()) + str(os.getlogin()) + str(os.getuid())
 
@@ -270,7 +270,7 @@ bxd = ""
 
 bumper = id+bxd+xp
 
-myweb2 = requests.get('https://github.com/Durlovevaw/approvekl/blob/main/Approvebi').text
+myweb2 = requests.get().text
 
 def qsbuy():
 
